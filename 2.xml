@@ -125,7 +125,7 @@
             container.className = "unity-mobile";
           }
           loadingCover.style.background =
-            "url('https://cdn.jsdelivr.net/gh/z799gs/550o8@main/Images/background.png') center / cover";
+            "url('https://raw.githubusercontent.com/mx827/4ghf54/refs/heads/main/Images/new_bg.png') center / cover";
           loadingCover.style.display = "";
           function loadAndMergeFiles(files, callback) {
             var mergedBlob = [];
