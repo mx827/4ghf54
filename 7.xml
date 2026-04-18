@@ -101,7 +101,7 @@ loadAndMergeFiles(wasmFiles, function (mergedWasmBlob) {
     document.body.appendChild(script);
 });
 
-loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/z-f3-f1/1@main/background.jpg') center / cover";
+loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/mx827/4ghf54@main/Images/new_bg.png') center / cover";
 loadingCover.style.display = "";
 
 document.addEventListener('contextmenu', event => event.preventDefault());
