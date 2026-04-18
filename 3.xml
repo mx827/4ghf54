@@ -201,7 +201,7 @@
           function InitPlayer() {
             var fakePlayer = {
               playerAuth: "resolved",
-              playerName: "Okul_Gamer",
+              playerName: "Player",
               playerId: "local_1",
               playerPhoto: "null",
               payingStatus: "unknown",
