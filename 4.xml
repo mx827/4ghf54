@@ -110,7 +110,7 @@ function InitGame() {
     }, 100);
 }
 
-function SaveCloud()   {}
+function SaveCloud(jsonData)   { console.log("SAVE DATA:", jsonData); }
 function LoadCloud()   { YG2Instance('SetLoadSaves', NO_DATA); return Promise.resolve(NO_DATA); }
 
 function StickyAdActivity() {}
