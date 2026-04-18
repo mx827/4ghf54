@@ -239,7 +239,8 @@
             YG2Instance("PaymentsEntries", NO_DATA);
           }
           function BuyPayments(id) {
-            YG2Instance("OnPurchaseSuccessful", id);
+            YG2Instance("OnPurchaseFailed", id);
+            alert("Ads are removed thanks to P+");
           }
           function ConsumePurchase() {}
           function ConsumePurchases() {}
