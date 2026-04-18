@@ -239,7 +239,7 @@
             YG2Instance("PaymentsEntries", NO_DATA);
           }
           function BuyPayments(id) {
-            YG2Instance("OnPurchaseFailed", id);
+            YG2Instance("OnPurchaseSuccessful", id);
           }
           function ConsumePurchase() {}
           function ConsumePurchases() {}
